@@ -3,5 +3,19 @@
 
 @import "{{ site.theme }}";
 
-a:link { color: #FF0000; } /* CSS link color (red) */
-a:link:hover { color: #00FF00; } /* CSS link hover (green) */
+
+body {
+  color: blue;
+}
+
+h1 {
+  color: green;
+}
+
+a:link { 
+  color: #FF0000; 
+} /* CSS link color (red) */
+
+a:link:hover { 
+  color: #00FF00; 
+} /* CSS link hover (green) */
