@@ -5,22 +5,22 @@ Projects are completed by members of the lab, often with collaborators.
 
 **Members of the team**  
 
-* Sarah Deeny - [GitHub](https://github.com/sarahdTHF) / [Twitter](https://twitter.com/SarahDeeny)
+* Sarah Deeny, PhD - [GitHub](https://github.com/sarahdTHF) / [Twitter](https://twitter.com/SarahDeeny)
 * Kathryn Dreyer - [GitHub](https://github.com/kathdreyer) / [Twitter](https://twitter.com/kathrynadreyer)
-* Mai Stafford - [Twitter](https://twitter.com/stafford_xm)
+* Mai Stafford, PhD - [Twitter](https://twitter.com/stafford_xm)
 * Richard Welpton - [Twitter](https://twitter.com/rwelpton)
-* Karen Hodgson - [GitHub](https://github.com/KarenHodgson) / [Twitter](https://twitter.com/KarenHodgePodge)
-* Fiona Grimm - [GitHub](https://github.com/fiona-grimm) / [Twitter](https://twitter.com/fiona_grimm)
-* Hannah Knight - [Twitter](https://twitter.com/HannahEllin)
+* Karen Hodgson, PhD - [GitHub](https://github.com/KarenHodgson) / [Twitter](https://twitter.com/KarenHodgePodge)
+* Fiona Grimm, PhD - [GitHub](https://github.com/fiona-grimm) / [Twitter](https://twitter.com/fiona_grimm)
+* Hannah Knight, PhD - [Twitter](https://twitter.com/HannahEllin)
 * Rachel Tesfaye - [Twitter](https://twitter.com/RachelETesfaye)
 * Olivia Ross-Hurst  
 
 **Collaborators and former members**  
 
-* Meetali Kakad
-* Will Parry - [Twitter](https://twitter.com/DrWillParry)
+* Meetali Kakad, MD
+* Will Parry, PhD - [Twitter](https://twitter.com/DrWillParry)
 * Issac Barker - [Twitter](https://twitter.com/isaacbarker)
-* Rocco Friebel - [Twitter](https://twitter.com/r_friebel)
+* Rocco Friebel, PhD - [Twitter](https://twitter.com/r_friebel)
 
 
 ## Approach to working openly  
