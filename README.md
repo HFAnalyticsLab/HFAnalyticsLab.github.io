@@ -5,22 +5,22 @@ Projects are completed by members of the lab, often with collaborators.
 
 **Members of the team**  
 
-* [Sarah Deeny](https://github.com/sarahdTHF) - [@SarahDeeny](https://twitter.com/SarahDeeny)
-* [Kathryn Dreyer](https://github.com/kathdreyer) - [@kathrynadreyer](https://twitter.com/kathrynadreyer)
-* Mai Stafford - [@stafford_xm](https://twitter.com/stafford_xm)
-* Richard Welpton - [@rwelpton](https://twitter.com/rwelpton)
-* [Karen Hodgson](https://github.com/KarenHodgson) - [@KarenHodgePodge](https://twitter.com/KarenHodgePodge)
-* [Fiona Grimm](https://github.com/fiona-grimm) - [@fiona_grimm](https://twitter.com/fiona_grimm)
-* Hannah Knight - [@HannahEllin](https://twitter.com/HannahEllin)
-* Rachel Tesfaye - [@RachelETesfaye](https://twitter.com/RachelETesfaye)
+* Sarah Deeny [GitHub](https://github.com/sarahdTHF) - [Twitter](https://twitter.com/SarahDeeny)
+* Kathryn Dreyer [GitHub](https://github.com/kathdreyer) - [Twitter](https://twitter.com/kathrynadreyer)
+* Mai Stafford - [Twitter](https://twitter.com/stafford_xm)
+* Richard Welpton - [Twitter](https://twitter.com/rwelpton)
+* Karen Hodgson [GitHub](https://github.com/KarenHodgson) - [Twitter](https://twitter.com/KarenHodgePodge)
+* Fiona Grimm [GitHub](https://github.com/fiona-grimm) - [Twitter](https://twitter.com/fiona_grimm)
+* Hannah Knight - [Twitter](https://twitter.com/HannahEllin)
+* Rachel Tesfaye - [Twitter](https://twitter.com/RachelETesfaye)
 * Olivia Ross-Hurst  
 
 **Collaborators and former members**  
 
 * Meetali Kakad
-* Will Parry - [@DrWillParry](https://twitter.com/DrWillParry)
-* Issac Barker - [@isaacbarker](https://twitter.com/isaacbarker)
-* Rocco Friebel - [@r_friebel](https://twitter.com/r_friebel)
+* Will Parry - [Twitter](https://twitter.com/DrWillParry)
+* Issac Barker - [Twitter](https://twitter.com/isaacbarker)
+* Rocco Friebel - [Twitter](https://twitter.com/r_friebel)
 
 
 ## Approach to working openly  
