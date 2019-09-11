@@ -5,22 +5,22 @@ Projects are completed by members of the lab, often with collaborators.
 
 **Members of the team**  
 
-* [Sarah Deeny](https://github.com/sarahdTHF) - [\@SarahDeeny](https://twitter.com/SarahDeeny)
-* [Kathryn Dreyer](https://github.com/kathdreyer) - [\@kathrynadreyer](https://twitter.com/kathrynadreyer)
-* Mai Stafford - [\@stafford_xm](https://twitter.com/stafford_xm)
-* Richard Welpton - [\@rwelpton](https://twitter.com/rwelpton)
-* [Karen Hodgson](https://github.com/KarenHodgson) - [\@KarenHodgePodge](https://twitter.com/KarenHodgePodge)
-* [Fiona Grimm](https://github.com/fiona-grimm) - [\@fiona_grimm](https://twitter.com/fiona_grimm)
-* Hannah Knight - [\@HannahEllin](https://twitter.com/HannahEllin)
-* Rachel Tesfaye - [\@RachelETesfaye](https://twitter.com/RachelETesfaye)
+* [Sarah Deeny](https://github.com/sarahdTHF) - [@SarahDeeny](https://twitter.com/SarahDeeny)
+* [Kathryn Dreyer](https://github.com/kathdreyer) - [@kathrynadreyer](https://twitter.com/kathrynadreyer)
+* Mai Stafford - [@stafford_xm](https://twitter.com/stafford_xm)
+* Richard Welpton - [@rwelpton](https://twitter.com/rwelpton)
+* [Karen Hodgson](https://github.com/KarenHodgson) - [@KarenHodgePodge](https://twitter.com/KarenHodgePodge)
+* [Fiona Grimm](https://github.com/fiona-grimm) - [@fiona_grimm](https://twitter.com/fiona_grimm)
+* Hannah Knight - [@HannahEllin](https://twitter.com/HannahEllin)
+* Rachel Tesfaye - [@RachelETesfaye](https://twitter.com/RachelETesfaye)
 * Olivia Ross-Hurst  
 
 **Collaborators and former members**  
 
 * Meetali Kakad
-* Will Parry - [\@DrWillParry](https://twitter.com/DrWillParry)
-* Issac Barker - [\@isaacbarker](https://twitter.com/isaacbarker)
-* Rocco Friebel - [\@r_friebel](https://twitter.com/r_friebel)
+* Will Parry - [@DrWillParry](https://twitter.com/DrWillParry)
+* Issac Barker - [@isaacbarker](https://twitter.com/isaacbarker)
+* Rocco Friebel - [@r_friebel](https://twitter.com/r_friebel)
 
 
 ## Approach to working openly  
@@ -40,4 +40,4 @@ Our work may be published in the format of a blog, a Health Foundation briefing,
 ## Contact us
 For more information on any of the projects please contact the contributor. 
 
-If you want to know more about the Health Foundation [Analytics Lab](https://www.health.org.uk/about-the-health-foundation/our-people/data-analytics-team) please contact [Sarah Deeny, Assistant Director of Data Analytics](https://www.health.org.uk/about-the-health-foundation/our-people/data-analytics-team/sarah-deeny) who leads the team, and can be found on twitter [\@SarahDeeny ](https://twitter.com/SarahDeeny) or you can contact us via [GitHub](https://github.com/HFAnalyticsLab).
+If you want to know more about the Health Foundation [Analytics Lab](https://www.health.org.uk/about-the-health-foundation/our-people/data-analytics-team) please contact [Sarah Deeny, Assistant Director of Data Analytics](https://www.health.org.uk/about-the-health-foundation/our-people/data-analytics-team/sarah-deeny) who leads the team, and can be found on twitter [@SarahDeeny ](https://twitter.com/SarahDeeny) or you can contact us via [GitHub](https://github.com/HFAnalyticsLab).
