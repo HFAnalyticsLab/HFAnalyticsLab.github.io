@@ -1,5 +1,3 @@
-# Health Foundation Analytics Lab
-
 Our team uses innovative analytics to better understand health and care in the UK. Our work provides new insights to help decision makers improve health care quality and outcomes, and tackle health inequalities. Read more about our work at [the Health Foundation](https://www.health.org.uk/what-we-do/quality-and-data-analytics/in-house-data-analytics). On [GitHub](https://github.com/HFAnalyticsLab) we collect and share resources and code from our work. 
 
 ## Team members and collaborators
