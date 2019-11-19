@@ -17,7 +17,7 @@ Projects are completed by members of the lab, often with collaborators.
 
 **Collaborators and former members**  
 
-* Meetali Kakad, MD
+* Meetali Kakad, MD - [Twitter](https://twitter.com/tali_md)
 * Will Parry, PhD - [Twitter](https://twitter.com/DrWillParry)
 * Issac Barker - [Twitter](https://twitter.com/isaacbarker)
 * Rocco Friebel, PhD - [Twitter](https://twitter.com/r_friebel)
