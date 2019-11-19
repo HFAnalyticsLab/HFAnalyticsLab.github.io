@@ -7,7 +7,7 @@ Projects are completed by members of the lab, often with collaborators.
 
 * Sarah Deeny, PhD - [GitHub](https://github.com/sarahdTHF) / [Twitter](https://twitter.com/SarahDeeny)
 * Kathryn Dreyer - [GitHub](https://github.com/kathdreyer) / [Twitter](https://twitter.com/kathrynadreyer)
-* Mai Stafford, PhD - [Twitter](https://twitter.com/stafford_xm)
+* Mai Stafford, PhD - [GitHub](https://github.com/maistafford) / [Twitter](https://twitter.com/stafford_xm)
 * Richard Welpton - [Twitter](https://twitter.com/rwelpton)
 * Karen Hodgson, PhD - [GitHub](https://github.com/KarenHodgson) / [Twitter](https://twitter.com/KarenHodgePodge)
 * Fiona Grimm, PhD - [GitHub](https://github.com/fiona-grimm) / [Twitter](https://twitter.com/fiona_grimm)
