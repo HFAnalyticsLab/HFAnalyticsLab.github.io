@@ -13,10 +13,13 @@ Projects are completed by members of the lab, often with collaborators.
 * Fiona Grimm, PhD - [GitHub](https://github.com/fiona-grimm) / [Twitter](https://twitter.com/fiona_grimm)
 * Hannah Knight, PhD - [Twitter](https://twitter.com/HannahEllin)
 * Rachel Tesfaye - [Twitter](https://twitter.com/RachelETesfaye)
-* Olivia Ross-Hurst  
+* Olivia Ross-Hurst 
+* Jorgen Engmann - [Twitter](https://twitter.com/EngmannJorgen)
+* Sebastian Peytrignet - [GitHub](https://github.com/speytrignet-thf) / [Twitter](https://twitter.com/SebastienPeytr2)
 
 **Collaborators and former members**  
 
+* Toby Rubenstein - [GitHub](https://github.com/trubens71)
 * Meetali Kakad, MD - [Twitter](https://twitter.com/tali_md)
 * Will Parry, PhD - [Twitter](https://twitter.com/DrWillParry)
 * Issac Barker - [Twitter](https://twitter.com/isaacbarker)
