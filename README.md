@@ -15,7 +15,7 @@ Projects are completed by members of the lab, often with collaborators.
 * Rachel Tesfaye - [Twitter](https://twitter.com/RachelETesfaye)
 * Olivia Ross-Hurst 
 * Jorgen Engmann - [Twitter](https://twitter.com/EngmannJorgen)
-* Sebastian Peytrignet - [GitHub](https://github.com/speytrignet-thf) / [Twitter](https://twitter.com/SebastienPeytr2)
+* Sebastien Peytrignet - [GitHub](https://github.com/speytrignet-thf) / [Twitter](https://twitter.com/SebastienPeytr2)
 
 **Collaborators and former members**  
 
