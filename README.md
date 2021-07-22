@@ -8,17 +8,18 @@ Projects are completed by members of the lab, often with collaborators.
 * Sarah Deeny, PhD - [GitHub](https://github.com/sarahdTHF) / [Twitter](https://twitter.com/SarahDeeny)
 * Kathryn Dreyer - [GitHub](https://github.com/kathdreyer) / [Twitter](https://twitter.com/kathrynadreyer)
 * Mai Stafford, PhD - [GitHub](https://github.com/maistafford) / [Twitter](https://twitter.com/stafford_xm)
-* Richard Welpton - [Twitter](https://twitter.com/rwelpton)
-* Karen Hodgson, PhD - [GitHub](https://github.com/KarenHodgson) / [Twitter](https://twitter.com/KarenHodgePodge)
 * Fiona Grimm, PhD - [GitHub](https://github.com/fiona-grimm) / [Twitter](https://twitter.com/fiona_grimm)
 * Hannah Knight, PhD - [Twitter](https://twitter.com/HannahEllin)
 * Rachel Tesfaye - [Twitter](https://twitter.com/RachelETesfaye)
 * Olivia Ross-Hurst 
 * Jorgen Engmann - [Twitter](https://twitter.com/EngmannJorgen)
 * Sebastien Peytrignet - [GitHub](https://github.com/speytrignet-thf) / [Twitter](https://twitter.com/SebastienPeytr2)
+* Jay Hughes - [GitHub](https://github.com/Jay-ops256)
+* Yannis Kotrotsios
 
 **Collaborators and former members**  
-
+* Karen Hodgson, PhD - [GitHub](https://github.com/KarenHodgson) / [Twitter](https://twitter.com/KarenHodgePodge)
+* Richard Welpton - [Twitter](https://twitter.com/rwelpton)
 * Toby Rubenstein - [GitHub](https://github.com/trubens71)
 * Meetali Kakad, MD - [Twitter](https://twitter.com/tali_md)
 * Will Parry, PhD - [Twitter](https://twitter.com/DrWillParry)
