@@ -5,13 +5,12 @@ Projects are completed by members of the lab, often with collaborators.
 
 **Members of the team**  
 
-* Sarah Deeny, PhD - [GitHub](https://github.com/sarahdTHF) / [Twitter](https://twitter.com/SarahDeeny)
 * Kathryn Dreyer - [GitHub](https://github.com/kathdreyer) / [Twitter](https://twitter.com/kathrynadreyer)
 * Mai Stafford, PhD - [GitHub](https://github.com/maistafford) / [Twitter](https://twitter.com/stafford_xm)
 * Fiona Grimm, PhD - [GitHub](https://github.com/fiona-grimm) / [Twitter](https://twitter.com/fiona_grimm)
 * Hannah Knight, PhD - [Twitter](https://twitter.com/HannahEllin)
 * Rachel Tesfaye - [Twitter](https://twitter.com/RachelETesfaye)
-* Olivia Ross-Hurst 
+* Zoe Okere 
 * Jorgen Engmann - [Twitter](https://twitter.com/EngmannJorgen)
 * Sebastien Peytrignet - [GitHub](https://github.com/speytrignet-thf) / [Twitter](https://twitter.com/SebastienPeytr2)
 * Jay Hughes - [GitHub](https://github.com/Jay-ops256)
@@ -25,6 +24,8 @@ Projects are completed by members of the lab, often with collaborators.
 * Will Parry, PhD - [Twitter](https://twitter.com/DrWillParry)
 * Issac Barker - [Twitter](https://twitter.com/isaacbarker)
 * Rocco Friebel, PhD - [Twitter](https://twitter.com/r_friebel)
+* Olivia Ross-Hurst
+* Sarah Deeny, PhD
 
 
 ## Approach to working openly  
