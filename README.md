@@ -5,18 +5,20 @@ Projects are completed by members of the lab, often with collaborators.
 
 **Members of the team**  
 
-* Kathryn Dreyer - [GitHub](https://github.com/kathdreyer) / [Twitter](https://twitter.com/kathrynadreyer)
+* Kathryn Marszalek - [GitHub](https://github.com/kathdreyer) / [Twitter](https://twitter.com/kathmarszalek)
 * Mai Stafford, PhD - [GitHub](https://github.com/maistafford) / [Twitter](https://twitter.com/stafford_xm)
 * Fiona Grimm, PhD - [GitHub](https://github.com/fiona-grimm) / [Twitter](https://twitter.com/fiona_grimm)
 * Hannah Knight, PhD - [Twitter](https://twitter.com/HannahEllin)
 * Rachel Tesfaye - [Twitter](https://twitter.com/RachelETesfaye)
-* Zoe Okere 
-* Jorgen Engmann - [Twitter](https://twitter.com/EngmannJorgen)
+* Zoe Ruziczka 
 * Sebastien Peytrignet - [GitHub](https://github.com/speytrignet-thf) / [Twitter](https://twitter.com/SebastienPeytr2)
 * Jay Hughes - [GitHub](https://github.com/Jay-ops256)
 * Yannis Kotrotsios
+* Francesca Cavallaro, PhD - [GitHub](https://github.com/f-cavallaro) / [Twitter](https://twitter.com/CescaCava)
+* Tom Wagstaff - [GitHub](https://github.com/tomwagstaff-health)
 
-**Collaborators and former members**  
+**Collaborators and former members** 
+* Jorgen Engmann - [Twitter](https://twitter.com/EngmannJorgen)
 * Karen Hodgson, PhD - [GitHub](https://github.com/KarenHodgson) / [Twitter](https://twitter.com/KarenHodgePodge)
 * Richard Welpton - [Twitter](https://twitter.com/rwelpton)
 * Toby Rubenstein - [GitHub](https://github.com/trubens71)
