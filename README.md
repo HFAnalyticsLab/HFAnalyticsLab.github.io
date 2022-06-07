@@ -13,6 +13,7 @@ Projects are completed by members of the lab, often with collaborators.
 * Zoe Ruziczka 
 * Sebastien Peytrignet - [GitHub](https://github.com/speytrignet-thf) / [Twitter](https://twitter.com/SebastienPeytr2)
 * Jay Hughes - [GitHub](https://github.com/Jay-ops256)
+* Anne Alarilla - [GitHub](https://github.com/annealarilla) / [Twitter](https://twitter.com/AlarillaAnne)
 * Yannis Kotrotsios
 * Francesca Cavallaro, PhD - [GitHub](https://github.com/f-cavallaro) / [Twitter](https://twitter.com/CescaCava)
 * Tom Wagstaff - [GitHub](https://github.com/tomwagstaff-health)
