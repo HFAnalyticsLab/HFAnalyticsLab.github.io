@@ -48,4 +48,4 @@ Our work may be published in the format of a blog, a Health Foundation briefing,
 ## Contact us
 For more information on any of the projects please contact the contributor. 
 
-If you want to know more about the Health Foundation [Analytics Lab](https://www.health.org.uk/about-the-health-foundation/our-people/data-analytics-team) please contact [Sarah Deeny, Assistant Director of Data Analytics](https://www.health.org.uk/about-the-health-foundation/our-people/data-analytics-team/sarah-deeny) who leads the team, and can be found on twitter [@SarahDeeny ](https://twitter.com/SarahDeeny) or you can contact us via [GitHub](https://github.com/HFAnalyticsLab).
+If you want to know more about the Health Foundation [Analytics Lab](https://www.health.org.uk/about-the-health-foundation/our-people/data-analytics-team) please contact [Anne Alarilla](mailto:anne.alarilla@health.org.uk)/ [Jay Hughes](https://www.health.org.uk/about-the-health-foundation/our-people/data-analytics-team/jay-hughes) or you can contact us via [GitHub](https://github.com/HFAnalyticsLab).
