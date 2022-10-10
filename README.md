@@ -9,7 +9,6 @@ Projects are completed by members of the lab, often with collaborators.
 * Mai Stafford, PhD - [GitHub](https://github.com/maistafford) / [Twitter](https://twitter.com/stafford_xm)
 * Fiona Grimm, PhD - [GitHub](https://github.com/fiona-grimm) / [Twitter](https://twitter.com/fiona_grimm)
 * Hannah Knight, PhD - [Twitter](https://twitter.com/HannahEllin)
-* Rachel Tesfaye - [Twitter](https://twitter.com/RachelETesfaye)
 * Zoe Ruziczka 
 * Sebastien Peytrignet - [GitHub](https://github.com/speytrignet-thf) / [Twitter](https://twitter.com/SebastienPeytr2)
 * Jay Hughes - [GitHub](https://github.com/Jay-ops256)
@@ -17,6 +16,8 @@ Projects are completed by members of the lab, often with collaborators.
 * Yannis Kotrotsios
 * Francesca Cavallaro, PhD - [GitHub](https://github.com/f-cavallaro) / [Twitter](https://twitter.com/CescaCava)
 * Tom Wagstaff - [GitHub](https://github.com/tomwagstaff-health)
+* Arlene Gallagher - [Twitter](https://twitter.com/ArleneData)
+* Anil Gunesh
 
 **Collaborators and former members** 
 * Jorgen Engmann - [Twitter](https://twitter.com/EngmannJorgen)
@@ -29,6 +30,7 @@ Projects are completed by members of the lab, often with collaborators.
 * Rocco Friebel, PhD - [Twitter](https://twitter.com/r_friebel)
 * Olivia Ross-Hurst
 * Sarah Deeny, PhD
+* Rachel Tesfaye - [Twitter](https://twitter.com/RachelETesfaye)
 
 
 ## Approach to working openly  
