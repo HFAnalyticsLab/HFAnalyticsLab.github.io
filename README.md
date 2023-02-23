@@ -15,9 +15,7 @@ Projects are completed by members of the lab, often with collaborators.
 * Anne Alarilla - [GitHub](https://github.com/annealarilla) / [Twitter](https://twitter.com/AlarillaAnne)
 * Yannis Kotrotsios
 * Francesca Cavallaro, PhD - [GitHub](https://github.com/f-cavallaro) / [Twitter](https://twitter.com/CescaCava)
-* Tom Wagstaff - [GitHub](https://github.com/tomwagstaff-health)
 * Arlene Gallagher - [Twitter](https://twitter.com/ArleneData)
-* Anil Gunesh
 
 **Collaborators and former members** 
 * Jorgen Engmann - [Twitter](https://twitter.com/EngmannJorgen)
@@ -31,6 +29,8 @@ Projects are completed by members of the lab, often with collaborators.
 * Olivia Ross-Hurst
 * Sarah Deeny, PhD
 * Rachel Tesfaye - [Twitter](https://twitter.com/RachelETesfaye)
+* Tom Wagstaff - [GitHub](https://github.com/tomwagstaff-health)
+* Anil Gunesh
 
 
 ## Approach to working openly  
