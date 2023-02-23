@@ -16,6 +16,7 @@ Projects are completed by members of the lab, often with collaborators.
 * Yannis Kotrotsios
 * Francesca Cavallaro, PhD - [GitHub](https://github.com/f-cavallaro) / [Twitter](https://twitter.com/CescaCava)
 * Arlene Gallagher - [Twitter](https://twitter.com/ArleneData)
+* Anna Powell, PhD - [GitHub](https://github.com/anna-powell) / [Twitter](https://twitter.com/AnnaP1408)
 
 **Collaborators and former members** 
 * Jorgen Engmann - [Twitter](https://twitter.com/EngmannJorgen)
