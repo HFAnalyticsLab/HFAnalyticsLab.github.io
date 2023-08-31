@@ -1,22 +1,22 @@
 Our team uses innovative analytics to better understand health and care in the UK. Our work provides new insights to help decision makers improve health care quality and outcomes, and tackle health inequalities. Read more about our work at [the Health Foundation](https://www.health.org.uk/what-we-do/quality-and-data-analytics/in-house-data-analytics). On [GitHub](https://github.com/HFAnalyticsLab) we collect and share resources and code from our work. 
 
 ## Team members and collaborators
-Projects are completed by members of the lab, often with collaborators.  
+Projects are completed by members of the team, often with collaborators.  
 
 **Members of the team**  
 
 * Kathryn Marszalek - [GitHub](https://github.com/kathdreyer) / [Twitter](https://twitter.com/kathmarszalek)
 * Mai Stafford, PhD - [GitHub](https://github.com/maistafford) / [Twitter](https://twitter.com/stafford_xm)
-* Fiona Grimm, PhD - [GitHub](https://github.com/fiona-grimm) / [Twitter](https://twitter.com/fiona_grimm)
 * Hannah Knight, PhD - [Twitter](https://twitter.com/HannahEllin)
 * Zoe Ruziczka 
-* Sebastien Peytrignet - [GitHub](https://github.com/speytrignet-thf) / [Twitter](https://twitter.com/SebastienPeytr2)
 * Jay Hughes - [GitHub](https://github.com/Jay-ops256)
 * Anne Alarilla - [GitHub](https://github.com/annealarilla) / [Twitter](https://twitter.com/AlarillaAnne)
 * Yannis Kotrotsios
 * Francesca Cavallaro, PhD - [GitHub](https://github.com/f-cavallaro) / [Twitter](https://twitter.com/CescaCava)
 * Arlene Gallagher - [Twitter](https://twitter.com/ArleneData)
 * Anna Powell, PhD - [GitHub](https://github.com/anna-powell) / [Twitter](https://twitter.com/AnnaP1408)
+* Ellen Coughlan - [Twitter](https://twitter.com/EllenCoughlan)
+* Andrew Mooney 
 
 **Collaborators and former members** 
 * Jorgen Engmann - [Twitter](https://twitter.com/EngmannJorgen)
@@ -32,6 +32,8 @@ Projects are completed by members of the lab, often with collaborators.
 * Rachel Tesfaye - [Twitter](https://twitter.com/RachelETesfaye)
 * Tom Wagstaff - [GitHub](https://github.com/tomwagstaff-health)
 * Anil Gunesh
+* Fiona Grimm, PhD - [GitHub](https://github.com/fiona-grimm) / [Twitter](https://twitter.com/fiona_grimm)
+* Sebastien Peytrignet - [GitHub](https://github.com/speytrignet-thf) / [Twitter](https://twitter.com/SebastienPeytr2)
 
 
 ## Approach to working openly  
